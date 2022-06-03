@@ -1,0 +1,20 @@
+@font-face {
+    src: url('./font/Pony.ttf');
+    font-family: Pony;
+}
+*{
+    font-family :Pony ;
+}
+.heading {
+    font-family: Pony;
+}
+
+
+.btnButton{
+    font-family: Pony;
+    padding :50px;
+    font-size:30px;
+    background-color: aqua;
+    border-color : green;
+    outline: none;
+}
