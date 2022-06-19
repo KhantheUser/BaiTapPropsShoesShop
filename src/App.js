@@ -7,9 +7,9 @@ import UserManagement from './ReactFormHook/UserManagement';
 function App() {
   return (
     <div className="App">
-      {/* <ShoesShop/> */}
+      <ShoesShop/>
       {/* <BaiTapXucXac/> */}
-      <UserManagement/>
+      {/* <UserManagement/> */}
     </div>
   );
 }
