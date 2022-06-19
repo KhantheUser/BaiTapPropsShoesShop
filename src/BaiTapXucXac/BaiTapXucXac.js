@@ -6,6 +6,7 @@ import {connect} from 'react-redux'
  class BaiTapXucXac extends Component {
    
   render() {
+    
     const { datCuoc} = this.props
     return (
       <div style={{backgroundImage:"url(./image/xucXac/bgGame.png)", height:1000}} className=''>
